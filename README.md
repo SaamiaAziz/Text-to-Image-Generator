@@ -7,6 +7,7 @@ This project is a Text-to-Image Generator developed to generate images based on 
 The application allows users to enter a textual description, and the system generates an image that represents the given prompt. This project demonstrates how AI techniques can be integrated with modern web technologies to create an interactive and intelligent application.
 
 **🚀 Features**
+
 Generate images from text prompts
 Simple and user-friendly web interface
 Integration of frontend and backend technologies
@@ -14,6 +15,7 @@ Data storage and management using a database
 Demonstrates practical implementation of AI-based image generation
 
 **🛠 Technologies Used**
+
 Frontend
 HTML, CSS, JavaScript
 
@@ -27,6 +29,7 @@ Concepts
 Artificial Intelligence
 
 **⚙️ How It Works**
+
 The user enters a text prompt in the interface.
 The request is sent to the Python backend.
 The backend processes the prompt and generates an image.
